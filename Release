@@ -1,0 +1,7 @@
+Origin: DeadmanXXXII
+Label: Shell-Audit Repo
+Suite: stable
+Codename: stable
+Architectures: all
+Components: main
+Description: APT Repository for Shell-Audit CLI Tool

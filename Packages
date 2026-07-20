@@ -1,0 +1,15 @@
+Package: shell-audit
+Version: 1.0.0
+Architecture: all
+Maintainer: DeadmanXXXII aka Blu Corbel <blucorbel35@gamil.com>
+Depends: bash, coreutils, procps
+Filename: ./shell-audit_1.0.0-1.deb
+Size: 2780
+MD5sum: f16f12fd3fb980f7e1192ca2f056c5eb
+SHA1: 082387637fe9ca58b5eabdd18159fa876a2f15f8
+SHA256: b348c1750fa51822c2cfac6f3a3f44a9849ff854896c3da5515a29d9ed4d7b3d
+Section: utils
+Priority: optional
+Description: Shell-Audit CLI Tool
+ A quick system and security tooling, auditing utility for Linux environments.
+
