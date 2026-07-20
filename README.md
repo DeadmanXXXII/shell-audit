@@ -43,7 +43,7 @@ Summary Metrics: Execution runtime and totals for installed vs. missing language
 ⚙️ Manual Build (.deb)
 If you wish to build the .deb package yourself from source:
 
-Bash```
+bash```
 # Clone repository
 git clone git@github.com:DeadmanXXXII/shell-audit.git
 cd shell-audit
